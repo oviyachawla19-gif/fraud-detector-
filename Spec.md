@@ -49,8 +49,18 @@ python main.py --path /path/to/folder --output report.csv
 ## What you need
 
 - Python 3.10 or newer.
-- `presidio-analyzer`.
-- `argparse`, `pathlib`, `json`, `csv`.
+- `presidio-analyzer` - learn more at https://microsoft.github.io/presidio/
+- `argparse`, `pathlib`, `json`, `csv` (built into Python)
+
+## Library links
+
+- Presidio docs: https://microsoft.github.io/presidio/
+- Presidio analyzer package: https://pypi.org/project/presidio-analyzer/
+- Presidio anonymizer package: https://pypi.org/project/presidio-anonymizer/
+- Python `argparse`: https://docs.python.org/3/library/argparse.html
+- Python `pathlib`: https://docs.python.org/3/library/pathlib.html
+- Python `json`: https://docs.python.org/3/library/json.html
+- Python `csv`: https://docs.python.org/3/library/csv.html
 
 ## Next steps
 
